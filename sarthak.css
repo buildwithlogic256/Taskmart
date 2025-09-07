@@ -1,7 +1,0 @@
-container {
-      display: flex;              /* makes it a flex container */
-      justify-content: space-around; /* spaces items evenly */
-      align-items: center;        /* centers items vertically */
-      height: 150px;
-      background-color: lightgray;
-    }
